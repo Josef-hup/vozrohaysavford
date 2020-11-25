@@ -1,0 +1,23 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(180deg, #242B33 10.42%, rgba(36, 43, 51, 0) 50.52%, #242B33 90.1%),
+    linear-gradient(0deg, rgba(36, 43, 51, 0.9), rgba(36, 43, 51, 0.9)),
+    linear-gradient(0deg, #C4C4C4, #C4C4C4);
+}
+.conteiner {
+    padding-left: 500px;
+    padding-right: 500px;
+
+}
+.neme {
+    display: flex;
+    padding-top: 200px;
+    justify-content: center;
+}
+.d {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.m {
+    padding-top: 50px;
+}
